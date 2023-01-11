@@ -1,5 +1,9 @@
 ### Hello world 👋
 
+
+My name is Lucía, and I'm a chemical engineering graduate who wants to risk everything and turn her life around. I signed up for a web programming Bootcamp, an intensive three-month course that changes your life. Now, reinvented and proud, I can say that I am a junior front-end developer looking for an opportunity where I can give my best and show what I am capable of. 💫🚀
+
+
 <!--
 **Luciakestel/Luciakestel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
